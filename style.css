@@ -1,0 +1,80 @@
+/*Imported Font Styles*/
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Gloria+Hallelujah|Permanent+Marker|Press+Start+2P|ZCOOL+QingKe+HuangYou|Special+Elite');
+
+
+/*Main Styles*/
+body, html {
+    background-image: url('images/background/quiz-bg-3-dark.jpg');
+    background-image: url('images/background/quiz-bg.jpg');
+    background-attachment: fixed;
+    background-size: cover; 
+    box-sizing: border-box;   
+    text-align: center;  
+}
+
+h1 {
+    font-size: 7.5rem;
+    letter-spacing: 5px;  
+    padding-top: 0.5rem;  
+    color: white;
+}
+
+h5 {
+    font-size: 3rem;
+    letter-spacing: 2px;  
+    margin-top: 5rem;  
+}
+
+h1, h5 {
+    font-family: 'Permanent Marker','Gloria Hallelujah','Press Start 2P','Audiowide','ZCOOL QingKe HuangYou','Special Elite', 'Century Gothic'; 
+}
+
+.card-light {
+    background-color: rgba(187, 187, 187, 0.75);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.4));
+    padding: 1rem 2rem 1rem 2rem;
+    margin-top: 5rem;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: black;
+    box-shadow: 0 20px 20px -8.5px rgba(0, 0, 0, 0.95);
+    margin-bottom: 2rem; 
+}
+
+.card-dark {
+    background-color: rgba(187, 187, 187, 0.75);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.95));
+    padding: 1rem 2rem 1rem 2rem;
+    margin-top: 5rem;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0 20px 20px -8.5px rgba(0, 0, 0, 0.95);
+    margin-bottom: 2rem; 
+}
+
+#guess-input {
+    width: 200px;
+}
+
+
+/* Media Queries */
+@media screen and (max-width: 1024px) {
+
+    h1 {             
+        font-size: 5rem;
+    }
+}
+
+
+@media screen and (max-width: 350px) {
+
+    h1 {             
+        font-size: 3.85rem;
+    }
+
+    .card {
+        padding: 0.75rem;
+    }
+
+}
