@@ -1,4 +1,4 @@
-# Guess & General Knowledge Quiz Games
+# Guess & General Knowledge Quiz Games Application
 
 This is a cool, fun & friendly single page application where the user can interact with the UI. Various games include:
 
