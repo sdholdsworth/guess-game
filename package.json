@@ -1,0 +1,15 @@
+{
+  "name": "Guess-Game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sholdsworth86/guess-game.git",
+  "author": "Sam Holdsworth <sdholdsworth86@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build-number-game": "babel src/number-game.js --out-file=public/scripts/number-game.js --presets=env --watch",
+    "build-pub-game": "babel src/pub-quiz-game.js --out-file=public/scripts/pub-quiz-game.js --presets=env --watch"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
