@@ -1,0 +1,804 @@
+  [
+    
+    {
+        "id": 1,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "From which language is the word ‘ketchup’ derived?",
+        "answer": "Chinese"
+    }, 
+
+    {
+        "id": 2,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What country has the largest population in Europe?",
+        "answer": "Russia"
+    }, 
+
+    {
+        "id": 3,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Who portrayed Edward Scissorhands?",
+        "answer": "Johnny Depp"
+    }, 
+
+    {
+        "id": 4,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What are made and repaired by a cobbler?",
+        "answer": "Shoes"
+    },
+
+    {
+        "id": 5,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What is an endoscope used to examine?",
+        "answer": "The inside of the body"
+    }, 
+
+    {
+        "id": 6,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Apart from womanizing and producing films, what was the other passion of Howard Hughes?",
+        "answer": "Aviation"
+    }, 
+
+    {
+        "id": 7,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What colour are the four stars on the flag of New Zealand?",
+        "answer": "Red"
+    }, 
+
+    {
+        "id": 8,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "How many states make up the United States of America?",
+        "answer": "50"
+    }, 
+
+    {
+        "id": 9,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which English football team plays its home matches at Old Trafford?",
+        "answer": "Manchester United"
+    }, 
+
+    {
+        "id": 10,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Mr. Carson is the name of the butler in which popular TV costume drama?",
+        "answer": "Downton Abbey"
+    }, 
+
+    {
+        "id": 11,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Comedy duo Ant and Dec are originally from which English city?",
+        "answer": "Newcastle upon Tyne"
+    }, 
+
+    {
+        "id": 12,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In the medical profession, what do the initials ‘GP’ stand for?",
+        "answer": "General practitioner"
+    }, 
+
+    {
+        "id": 13,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which German football team won the Champions League in 2013?",
+        "answer": "Bayern Munich"
+    }, 
+
+    {
+        "id": 14,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Maris Piper and King Edward are varieties of what?",
+        "answer": "Potato"
+    }, 
+    
+    {
+        "id": 15,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "H2O is the chemical formula for what?",
+        "answer": "Water"
+    }, 
+    
+    {
+        "id": 16,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which English king married six times?",
+        "answer": "Henry VIII"
+    }, 
+
+    {
+        "id": 17,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Whom did David Cameron succeed as the British prime minister?",
+        "answer": "Gordon Brown"
+    }, 
+
+    {
+        "id": 18,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Blandenburg, Bremen and Lower Saxony are states in which European country?",
+        "answer": "Germany"
+    }, 
+
+    {
+        "id": 19,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Complete the title of the play by Shakespeare – ‘The Merchant of …’?",
+        "answer": "Venice"
+    }, 
+
+    {
+        "id": 20,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "By what name is the TV adventurer Edward Michael Grylls more commonly known?",
+        "answer": "Bear Grylls"
+    }, 
+
+    {
+        "id": 21,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which fictional sleuth was played on TV for 25 years by David Suchet?",
+        "answer": "Hercule Poirot"
+    }, 
+
+    {
+        "id": 22,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Brie and Camembert are types of which food?",
+        "answer": "Cheese"
+    }, 
+
+    {
+        "id": 23,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Complete the title of the hit romantic comedy – ‘When Harry Met …’?",
+        "answer": "Sally"
+    }, 
+
+    {
+        "id": 24,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What type of creature lives in an apiary?",
+        "answer": "Bee"
+    },
+
+    {
+        "id": 25,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In London, what can be found at Spitalfields, Portobello Road and Camden?",
+        "answer": "Markets"
+    }, 
+
+    {
+        "id": 26,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which British artist is famous for his spot paintings?",
+        "answer": "Damien Hirst"
+    }, 
+
+    {
+        "id": 27,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "A rugby union team is made up of how many players?",
+        "answer": "15"
+    }, 
+
+    {
+        "id": 28,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which British patron saint is celebrated annually on 1st of March?",
+        "answer": "St. David"
+    }, 
+
+    {
+        "id": 29,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What colour flag is awarded to a beach that meets high standards for cleanliness, safety and water quality?",
+        "answer": "Blue"
+    }, 
+
+    {
+        "id": 30,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Pantomimes traditionally take place at what time of the year?",
+        "answer": "Christmas"
+    }, 
+
+    {
+        "id": 31,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In which religion is Krishna a God?",
+        "answer": "Hinduism"
+    }, 
+
+    {
+        "id": 32,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In which sport are there playing positions called flanker, fly half and tight-head prop?",
+        "answer": "Rugby Union"
+    }, 
+
+    {
+        "id": 33,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What boy’s name is also the capital of the Falkland Islands?",
+        "answer": "Stanley"
+    }, 
+
+    {
+        "id": 34,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "TV comedy ‘Dad’s Army’ was set during which conflict?",
+        "answer": "World War 2"
+    }, 
+    
+    {
+        "id": 35,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Stilton, Wensleydale and Yarg are types of which food?",
+        "answer": "Cheese"
+    }, 
+    
+    {
+        "id": 36,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In which decade did Queen Elizabeth II become the British monarch?",
+        "answer": "1950s"
+    }, 
+
+    {
+        "id": 37,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In which country was Adolf Hitler born?",
+        "answer": "Austria"
+    }, 
+
+    {
+        "id": 38,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The phrase ‘three strikes and you’re out’ originates from which sport?",
+        "answer": "Baseball"
+    }, 
+
+    {
+        "id": 39,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which English city is often abbreviated to Soton?",
+        "answer": "Southampton"
+    }, 
+
+    {
+        "id": 40,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which mountain range forms a natural border between France and Spain?",
+        "answer": "Pyrenees"
+    },
+
+    {
+        "id": 41,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Shannon Airport is in which European country?",
+        "answer": "Ireland"
+    }, 
+
+    {
+        "id": 42,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Nora Batty was a character in which long-running TV comedy?",
+        "answer": "Last of the Summer Wine"
+    }, 
+
+    {
+        "id": 43,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Murrayfield Stadium is in which British city?",
+        "answer": "Edinburgh"
+    }, 
+
+    {
+        "id": 44,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In which sport may a player score a birdie, eagle or albatross?",
+        "answer": "Golf"
+    },
+
+    {
+        "id": 45,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Goal shooter, goal attack and wing attack are playing positions in which sport?",
+        "answer": "Netball"
+    }, 
+
+    {
+        "id": 46,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The underwater city of Bikini Bottom is the setting for which popular children’s cartoon?",
+        "answer": "SpongeBob SquarePants"
+    }, 
+
+    {
+        "id": 47,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Colombo is the largest city of which Asian country?",
+        "answer": "Sri Lanka"
+    }, 
+
+    {
+        "id": 48,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which sci-fi character has been played on the big screen by Leonard Nimoy and more recently by Zachary Quinto?",
+        "answer": "Mr. Spock"
+    }, 
+
+    {
+        "id": 49,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "How many English monarchs have been called Edward?",
+        "answer": "8"
+    }, 
+
+    {
+        "id": 50,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In Tolkien’s ‘The Hobbit’, what type of fictional creature is Smaug?",
+        "answer": "Dragon"
+    }, 
+
+    {
+        "id": 51,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Carrow Road is the home ground of which English football team?",
+        "answer": "Norwich City"
+    }, 
+
+    {
+        "id": 52,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The ‘Financial Times’ newspaper is printed on what colour paper?",
+        "answer": "Pink"
+    }, 
+
+    {
+        "id": 53,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "For what is ‘the dunny’ an Australian slang term?",
+        "answer": "The toilet"
+    }, 
+
+    {
+        "id": 54,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The Canary Islands are a region of which country?",
+        "answer": "Spain"
+    }, 
+    
+    {
+        "id": 55,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In the popular video game series, what type of animal is Sonic?",
+        "answer": "Hedgehog"
+    }, 
+    
+    {
+        "id": 56,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Greens, fairways and bunkers are part of the setting for which sport?",
+        "answer": "Golf"
+    }, 
+
+    {
+        "id": 57,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which UK city was the venue for the 2014 Commonwealth Games?",
+        "answer": "Glasgow"
+    }, 
+
+    {
+        "id": 58,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Ramsay Street is the setting for which TV soap?",
+        "answer": "Neighbours"
+    }, 
+
+    {
+        "id": 59,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The Great Barrier Reef lies off the coast of which country?",
+        "answer": "Australia"
+    }, 
+
+    {
+        "id": 60,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which pair of superheroes are known as the ‘Dynamic Duo’?",
+        "answer": "Batman and Robin"
+    },
+
+    {
+        "id": 61,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which Olympic sport takes place in a velodrome?",
+        "answer": "Cycling"
+    }, 
+
+    {
+        "id": 62,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which joint connects the foot to the leg?",
+        "answer": "Ankle"
+    }, 
+
+    {
+        "id": 63,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In London, what are Tate Modern, Tate Britain and White Cube?",
+        "answer": "Art galleries"
+    }, 
+
+    {
+        "id": 64,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What name is shared by a brass musical instrument and a type of ice-cream cone?",
+        "answer": "Cornet"
+    },
+
+    {
+        "id": 65,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Prior to joining the euro, what was the currency of Spain?",
+        "answer": "Peseta"
+    }, 
+
+    {
+        "id": 66,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which American city was also the title of a 2002 Oscar-winning film starring Catherine Zeta-Jones and Richard Gere?",
+        "answer": "Chicago"
+    }, 
+
+    {
+        "id": 67,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What item, useful in the rain, provided the title of a hit single of Rihanna?",
+        "answer": "Umbrella"
+    }, 
+
+    {
+        "id": 68,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Aintree racecourse is in which city?",
+        "answer": "Liverpool"
+    }, 
+
+    {
+        "id": 69,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Coniston Water and Derwent Water are part of which UK National Park?",
+        "answer": "Lake District"
+    }, 
+
+    {
+        "id": 70,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Speaker’s Corner is a feature of which London park?",
+        "answer": "Hyde Park"
+    }, 
+
+    {
+        "id": 71,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Harley Street in London is commonly associated with which profession?",
+        "answer": "Medicine"
+    }, 
+
+    {
+        "id": 72,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What is the national flower of Wales?",
+        "answer": "Daffodil"
+    }, 
+
+    {
+        "id": 73,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Ringway airport serves which British city?",
+        "answer": "Manchester"
+    }, 
+
+    {
+        "id": 74,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which fortification stretches from Bowness-on-Solway to Wallsend?",
+        "answer": "Hadrian’s Wall"
+    }, 
+    
+    {
+        "id": 75,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "St. Mungo’s Cathedral is in which Scottish city?",
+        "answer": "Glasgow"
+    }, 
+    
+    {
+        "id": 76,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Glyndebourne is associated with which type of music?",
+        "answer": "Opera"
+    }, 
+
+    {
+        "id": 77,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The Balti Triangle is an area of which British city?",
+        "answer": "Birmingham"
+    }, 
+
+    {
+        "id": 78,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The Derby is held at which English racecourse?",
+        "answer": "Epsom"
+    }, 
+
+    {
+        "id": 79,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which English county is known as ‘Shakespeare’s County’?",
+        "answer": "Warwickshire"
+    }, 
+
+    {
+        "id": 80,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The Clifton Suspension Bridge spans which river?",
+        "answer": "Avon"
+    },
+
+    {
+        "id": 81,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "By population, what is the largest city in Scotland?",
+        "answer": "Glasgow"
+    }, 
+
+    {
+        "id": 82,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The Soap opera ‘Brookside’ was set in which city?",
+        "answer": "Liverpool"
+    }, 
+
+    {
+        "id": 83,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Freestyle and Greco-Roman are disciplines of which Olympic sport?",
+        "answer": "Wrestling"
+    }, 
+
+    {
+        "id": 84,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Quebec is a province in which Commonwealth country?",
+        "answer": "Canada"
+    },
+
+    {
+        "id": 85,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "R.I. are the initials of which American state?",
+        "answer": "Rhode Island"
+    }, 
+
+    {
+        "id": 86,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "A round of championship golf consists of how many holes?",
+        "answer": "18"
+    }, 
+
+    {
+        "id": 87,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The cricket ground Trent Bridge is in which English city?",
+        "answer": "Nottingham"
+    }, 
+
+    {
+        "id": 88,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The province of Rioja, which gives its name to the famous drink, is in which country?",
+        "answer": "Spain"
+    }, 
+
+    {
+        "id": 89,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Ibrox Stadium and Celtic Park are football grounds in which British city?",
+        "answer": "Glasgow"
+    }, 
+
+    {
+        "id": 90,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The Latin phrase ‘Utrinque Paratus’ is the motto of which regiment of the British Army?",
+        "answer": "Parachute Regiment"
+    }, 
+
+    {
+        "id": 91,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "The guilder was the former currency of which European country?",
+        "answer": "Netherlands"
+    }, 
+
+    {
+        "id": 92,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which of tennis’ four major championships is played on clay?",
+        "answer": "French Open"
+    }, 
+
+    {
+        "id": 93,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "A pug is a breed of which domestic pet?",
+        "answer": "Dog"
+    }, 
+
+    {
+        "id": 94,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which European capital city is known in its native language as Praha?",
+        "answer": "Prague"
+    }, 
+    
+    {
+        "id": 95,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What colour beret is worn by members of the Royal Marines?",
+        "answer": "Green"
+    }, 
+    
+    {
+        "id": 96,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which northern English city was known in Roman times as Deva?",
+        "answer": "Chester"
+    }, 
+
+    {
+        "id": 97,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Calcio is the Italian word for which sport?",
+        "answer": "Football"
+    }, 
+
+    {
+        "id": 98,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "Which outdoor sport is played at Lord’s?",
+        "answer": "Cricket"
+    }, 
+
+    {
+        "id": 99,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "In terms of area, what is the largest country in South America?",
+        "answer": "Brazil"
+    }, 
+
+    {
+        "id": 100,
+        "category": "",
+        "difficulty": "Easy",
+        "question": "What does the ‘MI’ in ‘MI5’ and ‘MI6’ stand for?",
+        "answer": "Military Intelligence"
+    }
+   
+ ]
+
