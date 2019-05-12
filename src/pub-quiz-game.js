@@ -13,13 +13,13 @@ PUB QUIZ GAME GENERAL FUNCTIONALITY:
 */
 
 //Define all variables
-const getQuestion = document.getElementById('get-question'),
-      getAnswer = document.getElementById('reveal-answer'),
-      question = document.getElementById('random-question'),
-      answer = document.getElementById('revealed-answer'),
-      submittedAnswer = document.getElementById('submit-answer'),
-      enteredAnswer = document.getElementById('question-guess-input'),        
-      result = document.getElementById('result-msg');
+const getQuestion = document.querySelector('#get-question'),
+      getAnswer = document.querySelector('#reveal-answer'),
+      question = document.querySelector('#random-question'),
+      answer = document.querySelector('#revealed-answer'),
+      submittedAnswer = document.querySelector('#submit-answer'),
+      enteredAnswer = document.querySelector('#question-guess-input'),        
+      result = document.querySelector('#result-msg');
       
 let json,
     numberOfQuestions,
@@ -91,7 +91,7 @@ function generateNewRandomData() {
 
      //Initiate the Ajax request
      xhr.send();
-  };
+};
 
 //Reveal Answer
 function showAnswer() {
