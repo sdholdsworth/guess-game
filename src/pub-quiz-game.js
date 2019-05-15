@@ -12,7 +12,7 @@ PUB QUIZ GAME GENERAL FUNCTIONALITY:
 - Player generates next randomized question by clicking the 'Next Question' button to continue the game
 */
 
-//Define all variables
+//Define all Variables
 const getQuestion = document.querySelector('#get-question'),
       getAnswer = document.querySelector('#reveal-answer'),
       question = document.querySelector('#random-question'),
@@ -25,19 +25,14 @@ let json,
     numberOfQuestions,
     randomID;
     
-//Define all Event Listeners
-getQuestion.addEventListener('click', generateNewRandomData);
-getAnswer.addEventListener('click', showAnswer);
-submittedAnswer.addEventListener('click', submitAnswer);
-
 //Generate Next Question
-function generateNewRandomData() {
+const generateNewRandomData = () => {
 
      //Form Ajax XHR Object
      const xhr = new XMLHttpRequest();
     
      //Open an Asynchronous GET Request to the Pub Quiz JSON data file
-     xhr.open('GET', 'pub-quiz-data.json', true);
+     xhr.open('GET', '../pub-quiz-data.json', true);
 
      //Open an Async Request 
      xhr.onload = function () {
@@ -94,7 +89,7 @@ function generateNewRandomData() {
 };
 
 //Reveal Answer
-function showAnswer() {
+const showAnswer = () => {
     
      //Reveal the actual answer
      answer.style.display ='block';
@@ -110,7 +105,7 @@ function showAnswer() {
 };
 
 //Submit Answer
-function submitAnswer(e) {
+const submitAnswer = (e) => {
 
   //Define the text variables to be compared (questions answer vs. user entered answer)
   let textEntered = enteredAnswer.value.toLowerCase(),
@@ -148,3 +143,7 @@ function submitAnswer(e) {
      e.preventDefault();
 };
 
+//Define all Event Listeners
+getQuestion.addEventListener('click', generateNewRandomData);
+getAnswer.addEventListener('click', showAnswer);
+submittedAnswer.addEventListener('click', submitAnswer);
