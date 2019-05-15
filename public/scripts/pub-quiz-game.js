@@ -32,10 +32,10 @@ var generateNewRandomData = function generateNewRandomData() {
             //Form Ajax XHR Object
             var xhr = new XMLHttpRequest();
 
-            //Open an Asynchronous GET Request to the Pub Quiz JSON data file
+            //Open an Asynchronous "GET" Request to the "Pub Quiz" JSON data file
             xhr.open('GET', '../pub-quiz-data.json', true);
 
-            //Open an Async Request 
+            //OnLoad Logic
             xhr.onload = function () {
 
                         //Define the logic if status is OK
