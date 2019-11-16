@@ -33,7 +33,8 @@ var generateNewRandomData = function generateNewRandomData() {
             var xhr = new XMLHttpRequest();
 
             //Open an Asynchronous "GET" Request to the "Pub Quiz" JSON data file
-            xhr.open('GET', '../pub-quiz-data.json', true);
+            //xhr.open('GET', '../public/pub-quiz-data.json', true);
+            xhr.open('GET', 'https://sdholdsworth.github.io/guess-game/pub-quiz-data.json', true);
 
             //OnLoad Logic
             xhr.onload = function () {
