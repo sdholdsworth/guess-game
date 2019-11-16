@@ -7,9 +7,12 @@
   "license": "MIT",
   "scripts": {
     "build-number-game": "babel src/number-game.js --out-file=public/scripts/number-game.js --presets=env --watch",
-    "build-pub-game": "babel src/pub-quiz-game.js --out-file=public/scripts/pub-quiz-game.js --presets=env --watch"
+    "build-pub-game": "babel src/pub-quiz-game.js --out-file=public/scripts/pub-quiz-game.js --presets=env --watch",
+    "deploy": "gh-pages -d public"
   },
+  "homepage": "https://sdholdsworth.github.io/guess-game",
   "dependencies": {
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "gh-pages": "^2.1.1"
   }
 }
