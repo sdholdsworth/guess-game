@@ -3,7 +3,7 @@
 
 /*Main Styles*/
 body, html {
-    background-image: url('images/background/quiz-bg.jpg');
+    background-image: url('../images/quiz-bg.jpg');
     background-attachment: fixed;
     background-size: cover;
     box-sizing: border-box;
